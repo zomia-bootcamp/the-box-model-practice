@@ -1,1 +1,27 @@
 
+#container{
+    background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTAT0gmAaJVa-aAPCNxwT4G6h1oRxDSFqd4-A&usqp=CAU);
+     height: 300px;
+     width: 300px;
+     background-size: contain;
+     border-radius: 80px;
+     text-align: center;
+     
+
+}
+p{
+    background-color: blue;
+}
+#text{
+    border: 0.5rem solid pink;
+    background-color: #ffffff;
+    width: 50px;
+    border-radius: 50px;
+    margin-top: 200px;
+    padding: 40px;
+}
+#text p{
+    border: 1px solid green;
+
+   
+}
