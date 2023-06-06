@@ -1,1 +1,47 @@
 
+*{
+    margin: 0;
+    padding: 0;
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+}
+body{
+    display: flex;
+}
+header {
+    margin-bottom: 30px;
+}
+
+main {
+    margin-top: 15px;
+}
+#container{
+    background-image: url("https://preview.redd.it/rryxqcpgu4681.jpg?auto=webp&s=5b5b1473d273bf115d235dd453cedc29e0075ae6");
+
+    height: 150px;
+    width: 400px;
+    background-size: contain;
+    border-radius: 20%;
+    margin: 0 auto;
+    padding-top: 250px;
+    overflow: scroll;
+}
+
+#text{
+    border: 0.5rem solid white;
+    width: 500px;
+    height: 50px;
+    border-radius: 20%;
+    margin: 0 auto;
+    overflow: scroll;
+    overflow-wrap: break-word;
+    margin: 0 auto;
+}
+
+#text p{
+    color: brown;
+    border: 1px solid black;
+    padding: 20px;
+    text-align: center;
+    font-size:  1.5rem;
+}
