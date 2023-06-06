@@ -1,1 +1,29 @@
+*
 
+#container{
+    background-image: url("https://www.channelblinds.com/wp-content/uploads/2017/05/broken-blind.jpg");
+    height: 400px;
+    width: 400px;
+   border: solid black 1px;
+    border-radius: 50px;
+    
+
+}
+
+#text{
+    border: 0.5rem solid white;
+    background-color: #ffff;
+    width: 250px;
+    border-radius: 15px;
+    margin: 0 auto;
+    margin-top: 250px;
+    
+}
+#text p{
+    border: 1px solid black;
+    padding: 5px;
+    text-align: center;
+   font-size: 1.5rem;
+   margin: 10px;
+
+}
