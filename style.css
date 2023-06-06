@@ -1,1 +1,88 @@
+*{
+    margin: 0;
+    padding: 0;
+    text-align: center;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+header{
+    display: flex ;
+    margin-bottom: 30px;
+}
+main{
+    margin-top: 15px ;
+}
+#container{
+    /* //border: 1px solid black; */
+    background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTm4pdkAgocWShH1lp92nnlfVcjqe0VwbcQKQ&usqp=CAU");
+    max-height: 100px;
+    min-height: 150px;
+    width: 100px;
+    border-radius: 15px;
+    padding-top: 250px;
+    margin: 0 auto;
+    background-size: cover;
+    /* overflow-x: scroll;
+   */
+}
 
+#text{
+    border: 0.5rem solid #fff;
+    background-color: #fff;
+    width: 250px;
+    height: 50px;
+    border-radius: 15px;
+    margin-top: 330px;
+    /* overflow: scroll; */
+
+}
+
+#text p {
+    color: black;
+}
+
+#text3 p:first-child {
+    border: 1px solid red;
+    padding: 10px;
+    text-align: center;
+    background-color: blueviolet;
+    font-size: 1.5rem;
+    margin: 10px;
+
+}
+#container2 {
+    /* //border: 1px solid black; */
+    background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSgLLeEQvCc6ioepUI36MLhyuyUKrf_2w0CbA&usqp=CAU");
+    max-height: 400px;
+    min-height: 150px;
+    width: 400px;
+    border-radius: 15px;
+    padding-top: 250px;
+    margin: 0 auto;
+    /* overflow-x: scroll;
+   */
+}
+
+#text1 {
+    border: 0.5rem solid #fff;
+    background-color: #fff;
+    width: 250px;
+    height: 50px;
+    border-radius: 15px;
+    margin-top: 330px;
+    /* overflow: scroll; */
+
+}
+
+#text2 p {
+    color: black;
+}
+
+#text3 p:first-child {
+    border: 1px solid red;
+    padding: 10px;
+    text-align: center;
+    background-color: blueviolet;
+    font-size: 1.5rem;
+    margin: 10px;
+
+}
